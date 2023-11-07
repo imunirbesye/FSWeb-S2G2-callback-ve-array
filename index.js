@@ -148,7 +148,7 @@ function EnKotuDefans(/* kodlar buraya */) {
     /* kodlar buraya */
 	
 }
-
+function hesapla
 
 /* Hala vaktiniz varsa, README dosyasında listelenen hedeflerden istediğinizi aşağıdaki boşluğa yazabilirsiniz. */
 
